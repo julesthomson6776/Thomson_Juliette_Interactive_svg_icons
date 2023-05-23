@@ -1,0 +1,194 @@
+.hidden {
+    display: none;
+}
+
+body{
+    font-size: 16px;
+    background-color: white;
+    color: black;
+}
+
+.icon-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon-container div {
+    width: 30%;
+}
+
+
+#grapes #stem{
+    transition:all 0.5s ease;
+}
+
+#grapes:hover #topthree {
+    opacity: .2;
+}
+
+#grapes:hover #single {
+    opacity: .2;
+}
+
+#grapes:hover #two {
+    opacity: .2;
+}
+
+#grapes:hover #three {
+    opacity: .2;
+}
+
+#grapes:hover #four {
+    opacity: .2;
+}
+#grapes:hover #stem{
+  fill:brown;
+}
+
+#grapes:hover #topthree {
+    fill: palevioletred;
+    opacity: .2;
+}
+
+#strawberry:hover #dot1{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot2{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot3{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot4{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot5{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot6{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot7{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot8{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot9{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot10{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot11{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot12{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot13{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot14{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot15{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot16{
+    opacity: .7;
+    fill: pink;
+}
+
+#strawberry:hover #dot17{
+    opacity: .7;
+    fill: pink;
+}
+
+#mango:hover #fruit {
+    fill: lightblue;
+}
+
+#orange:hover #leaf3{
+    fill: coral;
+}
+
+#orange:hover #lighting{
+    fill: yellow;
+}
+
+#pear:hover #body {
+    opacity: .10;
+}
+#pear:hover #stick {
+    opacity: .10;
+}
+#pear:hover #greenleaf {
+    opacity: .10;
+}
+
+#watermellon:hover #rine {
+    fill: yellow;
+}
+
+#watermellon:hover #lightrine {
+    fill: yellow;
+}
+
+#watermellon:hover #seed1 {
+    fill: yellow;
+}
+#watermellon:hover #seed2 {
+    fill: yellow;
+}
+#watermellon:hover #seed3 {
+    fill: yellow;
+}
+#watermellon:hover #seed4 {
+    fill: yellow;
+}
+#watermellon:hover #seed5 {
+    fill: yellow;
+}
+#watermellon:hover #seed6 {
+    fill: yellow;
+}
+#watermellon:hover #seed7 {
+    fill: yellow;
+}
+#watermellon:hover #seed8 {
+    fill: yellow;
+}
+#watermellon:hover #seed9 {
+    fill: yellow;
+}
